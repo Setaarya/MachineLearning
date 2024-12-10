@@ -4,9 +4,8 @@ GenggamMakna is an application that can help people translate the SIBI and BISIN
 ### Team ID : C242-PS235
 
 ### Machine Learning Team Members
-1. (ML) M230B4KY2047 – Jeasen Renaldi Tenda – Universitas Katolik De La Salle
-2. (ML) M230B4KY2083 – John Alessandro Jong – Universitas Katolik De La Salle
-3. (ML) M283B4KY4567 – Yulianto Aryaseta – Universitas Negeri Semarang
+1. (ML) M230B4KY2083 – John Alessandro Jong – Universitas Katolik De La Salle
+2. (ML) M283B4KY4567 – Yulianto Aryaseta – Universitas Negeri Semarang
 
 Theme : 
 Empowering Minds: A holistic approach to education and personal development
